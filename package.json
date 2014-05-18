@@ -1,0 +1,21 @@
+{
+  "name": "node-koa-exploratory",
+  "version": "0.0.0",
+  "description": "node-koa-exploratory ====================",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jasonray/node-koa-exploratory.git"
+  },
+  "author": "jason ray <jason@jayray.net> (https://github.com/jasonray)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/jasonray/node-koa-exploratory/issues"
+  },
+  "dependencies": {
+    "koa": "^0.6.1"
+  }
+}
